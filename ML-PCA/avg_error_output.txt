@@ -1,0 +1,401 @@
+Results for average test errors: 
+
+k: 10
+s 10
+avg error: 0.28659999999999997
+
+k: 10
+s 20
+avg error: 0.2072
+
+k: 10
+s 30
+avg error: 0.1824
+
+k: 10
+s 40
+avg error: 0.19780000000000003
+
+k: 10
+s 50
+avg error: 0.14920000000000005
+
+k: 10
+s 60
+avg error: 0.1418
+
+k: 10
+s 70
+avg error: 0.11679999999999997
+
+k: 10
+s 80
+avg error: 0.11779999999999999
+
+k: 10
+s 90
+avg error: 0.10559999999999999
+
+k: 10
+s 100
+avg error: 0.09939999999999997
+
+k: 20
+s 10
+avg error: 0.2840000000000001
+
+k: 20
+s 20
+avg error: 0.23000000000000004
+
+k: 20
+s 30
+avg error: 0.19679999999999997
+
+k: 20
+s 40
+avg error: 0.16320000000000004
+
+k: 20
+s 50
+avg error: 0.14560000000000003
+
+k: 20
+s 60
+avg error: 0.13540000000000002
+
+k: 20
+s 70
+avg error: 0.127
+
+k: 20
+s 80
+avg error: 0.11279999999999997
+
+k: 20
+s 90
+avg error: 0.1116
+
+k: 20
+s 100
+avg error: 0.10619999999999999
+
+k: 30
+s 10
+avg error: 0.2948
+
+k: 30
+s 20
+avg error: 0.22920000000000001
+
+k: 30
+s 30
+avg error: 0.20939999999999995
+
+k: 30
+s 40
+avg error: 0.17260000000000003
+
+k: 30
+s 50
+avg error: 0.1688
+
+k: 30
+s 60
+avg error: 0.12999999999999998
+
+k: 30
+s 70
+avg error: 0.12599999999999997
+
+k: 30
+s 80
+avg error: 0.1632
+
+k: 30
+s 90
+avg error: 0.09899999999999998
+
+k: 30
+s 100
+avg error: 0.10659999999999999
+
+k: 40
+s 10
+avg error: 0.3228
+
+k: 40
+s 20
+avg error: 0.25139999999999996
+
+k: 40
+s 30
+avg error: 0.18580000000000002
+
+k: 40
+s 40
+avg error: 0.17760000000000004
+
+k: 40
+s 50
+avg error: 0.1588
+
+k: 40
+s 60
+avg error: 0.14540000000000003
+
+k: 40
+s 70
+avg error: 0.12200000000000003
+
+k: 40
+s 80
+avg error: 0.15639999999999996
+
+k: 40
+s 90
+avg error: 0.11560000000000001
+
+k: 40
+s 100
+avg error: 0.10619999999999999
+
+k: 50
+s 10
+avg error: 0.29979999999999996
+
+k: 50
+s 20
+avg error: 0.21899999999999994
+
+k: 50
+s 30
+avg error: 0.2004
+
+k: 50
+s 40
+avg error: 0.182
+
+k: 50
+s 50
+avg error: 0.1738
+
+k: 50
+s 60
+avg error: 0.1376
+
+k: 50
+s 70
+avg error: 0.1386
+
+k: 50
+s 80
+avg error: 0.1206
+
+k: 50
+s 90
+avg error: 0.15599999999999997
+
+k: 50
+s 100
+avg error: 0.1436
+
+k: 60
+s 10
+avg error: 0.29979999999999996
+
+k: 60
+s 20
+avg error: 0.27899999999999997
+
+k: 60
+s 30
+avg error: 0.1968
+
+k: 60
+s 40
+avg error: 0.1688
+
+k: 60
+s 50
+avg error: 0.166
+
+k: 60
+s 60
+avg error: 0.14740000000000003
+
+k: 60
+s 70
+avg error: 0.15899999999999997
+
+k: 60
+s 80
+avg error: 0.1206
+
+k: 60
+s 90
+avg error: 0.10659999999999999
+
+k: 60
+s 100
+avg error: 0.09719999999999998
+
+k: 70
+s 10
+avg error: 0.3508
+
+k: 70
+s 20
+avg error: 0.2576
+
+k: 70
+s 30
+avg error: 0.2098
+
+k: 70
+s 40
+avg error: 0.1768
+
+k: 70
+s 50
+avg error: 0.17079999999999998
+
+k: 70
+s 60
+avg error: 0.1416
+
+k: 70
+s 70
+avg error: 0.14300000000000002
+
+k: 70
+s 80
+avg error: 0.203
+
+k: 70
+s 90
+avg error: 0.11280000000000001
+
+k: 70
+s 100
+avg error: 0.11639999999999998
+
+k: 80
+s 10
+avg error: 0.3106
+
+k: 80
+s 20
+avg error: 0.2716
+
+k: 80
+s 30
+avg error: 0.21739999999999995
+
+k: 80
+s 40
+avg error: 0.18120000000000003
+
+k: 80
+s 50
+avg error: 0.15600000000000006
+
+k: 80
+s 60
+avg error: 0.21340000000000003
+
+k: 80
+s 70
+avg error: 0.1476
+
+k: 80
+s 80
+avg error: 0.11839999999999998
+
+k: 80
+s 90
+avg error: 0.11599999999999996
+
+k: 80
+s 100
+avg error: 0.11040000000000001
+
+k: 90
+s 10
+avg error: 0.33859999999999996
+
+k: 90
+s 20
+avg error: 0.277
+
+k: 90
+s 30
+avg error: 0.2002
+
+k: 90
+s 40
+avg error: 0.18540000000000004
+
+k: 90
+s 50
+avg error: 0.1882
+
+k: 90
+s 60
+avg error: 0.154
+
+k: 90
+s 70
+avg error: 0.1356
+
+k: 90
+s 80
+avg error: 0.1682
+
+k: 90
+s 90
+avg error: 0.1608
+
+k: 90
+s 100
+avg error: 0.12179999999999999
+
+k: 100
+s 10
+avg error: 0.3422
+
+k: 100
+s 20
+avg error: 0.274
+
+k: 100
+s 30
+avg error: 0.22559999999999994
+
+k: 100
+s 40
+avg error: 0.1822
+
+k: 100
+s 50
+avg error: 0.1746
+
+k: 100
+s 60
+avg error: 0.1528
+
+k: 100
+s 70
+avg error: 0.18320000000000003
+
+k: 100
+s 80
+avg error: 0.14040000000000002
+
+k: 100
+s 90
+avg error: 0.11779999999999999
+
+k: 100
+s 100
+avg error: 0.11379999999999998
